@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 unknown_os ()
 {
