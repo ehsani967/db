@@ -1,0 +1,76 @@
+{
+  "servers":[
+ 
+  {
+    "id": 1,
+    "name": "General Purpose - GP1",
+    "type": "General Purpose",
+    "location": "New York (US)",
+    "country": "US",
+    "cpu": 4,
+    "ram": 16,
+    "storage": 200,
+    "storageType": "SSD",
+    "bandwidth": 5,
+    "price": 50,
+    "priceRub": 4320
+  },
+  {
+    "id": 2,
+    "name": "CPU Optimized - CP1",
+    "type": "CPU Optimized",
+    "location": "London (UK)",
+    "country": "UK",
+    "cpu": 8,
+    "ram": 32,
+    "storage": 400,
+    "storageType": "NVMe",
+    "bandwidth": 6,
+    "price": 96,
+    "priceRub": 8640
+  },
+  {
+    "id": 3,
+    "name": "Storage Optimized - ST1",
+    "type": "Storage Optimized",
+    "location": "Tokyo (JP)",
+    "country": "JP",
+    "cpu": 6,
+    "ram": 24,
+    "storage": 1500,
+    "storageType": "SSD",
+    "bandwidth": 4,
+    "price": 72,
+    "priceRub": 6480
+  },
+  {
+    "id": 4,
+    "name": "Memory Optimized - ME1",
+    "type": "Memory Optimized",
+    "location": "Singapore (SG)",
+    "country": "SG",
+    "cpu": 4,
+    "ram": 32,
+    "storage": 200,
+    "storageType": "SSD",
+    "bandwidth": 5,
+    "price": 64,
+    "priceRub": 5760
+  },
+  {
+    "id": 5,
+    "name": "General Purpose - GP2",
+    "type": "General Purpose",
+    "location": "Frankfurt (DE)",
+    "country": "DE",
+    "cpu": 2,
+    "ram": 8,
+    "storage": 100,
+    "storageType": "SSD",
+    "bandwidth": 3,
+    "price": 24,
+    "priceRub": 2160
+  }
+  
+]
+}
